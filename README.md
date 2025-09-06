@@ -54,7 +54,7 @@ From media storage to automation tools, **we build with passion and power**.
 
 ### 🔹 Run Locally
 ```bash
-git clone https://github.com/yourusername/knightxvault.git
+git clone https://github.com/Nagi2308/KnightxVault.git
 cd knightxvault
 
 pip install -r KnightxVaultreq.txt
