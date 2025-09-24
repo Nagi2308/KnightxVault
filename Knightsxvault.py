@@ -7,12 +7,12 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ================= CONFIG =================
-API_ID = 20924129
-API_HASH = "41fa64770dfccb944a7d1397a4c4129b"
-BOT_TOKEN = "8226503364:AAFb0gWMBY3PN52KR5bZRQxBXFr0j3puUn4"
-MONGO_URL = "mongodb+srv://emptyaddress02:emptyaddress02@knightsxbots.nf0gpri.mongodb.net/?retryWrites=true&w=majority&appName=KnightsXBots"
-CHANNEL_ID = -1002857189059  # replace with your private channel ID
-OWNER_ID = 6946299352
+API_ID =
+API_HASH = ""
+BOT_TOKEN = ""
+MONGO_URL = ""
+CHANNEL_ID =  # replace with your private channel ID
+OWNER_ID =
 
 # ================= INIT =================
 client = Client("storage-bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
